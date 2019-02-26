@@ -1,0 +1,3 @@
+ Sistemas computacionais complexos estão sujeitos a diferentes tipos de falhas, e a maneira mais adequada de lidar com tais falhas é aceitar que qualquer sistema pode apresenta-lás e empregar técnicas apropriadas para tolerá-Ias durante a execução do sistema.
+ 
+Desta forma, a abordagem mais apropriada para a construção de sistemas complexos confiáveis consiste na utilização de técnicas de tolerância a falhas que nos permitem definir regiões de confinamento e recuperação de erros.
