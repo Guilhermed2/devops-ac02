@@ -1,0 +1,3 @@
+Possuir um título claro, objetivo, rastreável e autoexplicativo: o título do Caso de Teste deve permitir que ele seja facilmente encontrado e reconhecido, deve deixar claro qual o seu objetivo.
+Seguir um padrão: seguir um padrão de escrita é ideal, principalmente quando existe mais um Analista de Testes na equipe. Exemplo: sempre colocar o menu entre colchetes no título do Caso de Teste, colocar campos e mensagens entre aspas.
+Ser objetivo e não exaustivo: sempre evitar Casos de Teste com muitos passos (mais de 20, por exemplo). Nem sempre isto é possível, mas um Caso de Teste muito extenso se torna exaustivo e pode fazer com que não se preste atenção em todos os passos.
